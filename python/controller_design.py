@@ -35,7 +35,7 @@ def nevs_function():
 
 
 def lorcans_function():
-   print(":P")
+   print(":-P")
 
 
 

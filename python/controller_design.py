@@ -24,4 +24,6 @@ def pantelis_function():
    # does nothing!
    pass
 
+def nevs_function():
+	0/0
 

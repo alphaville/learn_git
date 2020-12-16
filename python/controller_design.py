@@ -18,6 +18,7 @@ def johns_function():
 def jonathans_function():
    z = 2
 
-def Lorcans_function():
-   print("Hello!")
+
+def lorcans_function():
+   print(":P")
 

@@ -21,9 +21,11 @@ def jonathans_function():
 
 
 def pantelis_function():
-   # does nothing!
-   pass
+   # does something!
+   x = np.sin(5)
+   return x
 
 def nevs_function():
 	0/0
+
 

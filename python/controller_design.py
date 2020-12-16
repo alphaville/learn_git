@@ -18,5 +18,6 @@ def johns_function():
 def jonathans_function():
    z = 2
 
-
+def nevs_function():
+	0/0
 

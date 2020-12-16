@@ -1,6 +1,7 @@
 import numpy as np
 import sympy
 
+# comment!
 print("Hello World!")
 
 x = 1
@@ -19,6 +20,15 @@ def jonathans_function():
    z = 2
 
 
+def pantelis_function():
+   # does nothing!
+   pass
+
+def nevs_function():
+   0/0
+
+
 def lorcans_function():
    print(":P")
+
 

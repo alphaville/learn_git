@@ -1,4 +1,4 @@
-# Pantellis is the best lecturer in QUB
+# Pantellis is the best lecturer in QUB!
 
 import numpy as np
 import sympy
